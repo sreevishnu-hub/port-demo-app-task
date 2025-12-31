@@ -40,6 +40,4 @@ docker-compose up
 ------------------------------------------------------------------
 **How to Run Without Docker**
 
-1. Install dependencies:
-```bash
 pip install -r requirements.txt
