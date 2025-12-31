@@ -33,7 +33,12 @@ The application exposes two endpoints: `/` and `/health`, and clearly indicates 
 - Simple to log to stdout
 
 ------------------------------------------------------------------
-## How to Run Without Docker
+**How to Run With Docker**
+
+docker-compose up
+
+------------------------------------------------------------------
+**How to Run Without Docker**
 
 1. Install dependencies:
 ```bash
