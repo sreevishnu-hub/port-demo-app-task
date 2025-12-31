@@ -108,9 +108,3 @@ username/project-name:<commit-hash>
 ## Decision: Tag Docker images with commit hash
    **Reason**  : Ensures reproducibility and traceability in CI/CD pipeline.
    **Tradeoff**: Requires automated tagging in CI pipeline.
-
-------------------------------------------------------------------
-**Future improvements with more time:**
-   Add automated rollback in CI/CD pipeline.
-   Integrate environment variable management for staging and production.
-   Implement monitoring and alerting for container health.
